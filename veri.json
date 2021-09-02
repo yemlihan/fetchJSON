@@ -1,0 +1,41 @@
+{
+    "users" : [
+        {
+            "id" : 0,
+            "name" : "John",
+            "surname" : "Bilton",
+            "age" : "24"
+        },
+        {
+            "id" : 1,
+            "name" : "Joe",
+            "surname" : "Tribbiani",
+            "age" : "17"
+        },
+        {
+            "id" : 2,
+            "name" : "Jonas",
+            "surname" : "Svensson",
+            "age" : "30"
+        }
+        ,
+        {
+            "id" : 3,
+            "name" : "Lucas",
+            "surname" : "Castro",
+            "age" : "25"
+        },
+        {
+            "id" : 4,
+            "name" : "Alex",
+            "surname" : "Terreira",
+            "age" : "56"
+        },
+        {
+            "id" : 5,
+            "name" : "Victor",
+            "surname" : "Maxvel",
+            "age" : "49"
+        }
+    ]
+}
